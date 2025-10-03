@@ -5,3 +5,4 @@ matplotlib
 pydantic
 langchain_community
 langchain-groq
+langchain-experimental
